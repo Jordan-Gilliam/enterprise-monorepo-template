@@ -1,6 +1,6 @@
 {
   "name": "ts-monorepo-template",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/Jordan-Gilliam/ts-monorepo-template.git",
   "author": "Jordan Gilliam <jordan.dev.00@gmail.com>",
