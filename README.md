@@ -1,9 +1,4 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/Jordan-Gilliam/ts-monorepo-template"><img width="700" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/in%20tents.png" alt=""></a>
-</h1>
-
-<h4 align="center">ts-monorepo-template</h4>
+<h1 align="center">enterprise typescript monorepo template</h1>
 
   <br>
 
